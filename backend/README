@@ -1,0 +1,5 @@
+#To run server in your terminal 
+
+nodemon app.js
+
+#then you can access via http://localhost:3000
